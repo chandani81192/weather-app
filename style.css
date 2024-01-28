@@ -1,0 +1,54 @@
+    html{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body {background-image: url("file-20180820-30593-1nxanpj.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+
+    img {
+        border-radius: 50%;
+        position: absolute;
+        width: 250px;
+        height: 250px;
+    }
+
+    h2 {
+        font-size: 40px;
+        font-family: verdana;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 25px;
+    }
+
+    table {
+        border-spacing: 10px;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    th {
+        border-spacing: 25px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;
+    }
+
+    td {
+        border-bottom: 1px;
+        text-align: center;
+        font-size: 25px;
+        font-family: arial;
+    }
